@@ -60,7 +60,6 @@ Library: C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\BurstOutpu
 --assembly-defines=mscorlib;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Library\Burst
 --output=C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\BurstOutput\Data\Plugins\lib_burst_generated
@@ -158,7 +157,6 @@ Library: C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\BurstOutpu
 --assembly-defines=mscorlib;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Library\Burst
 --output=C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\BurstOutput\Data\Plugins\lib_burst_generated
