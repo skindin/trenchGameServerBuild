@@ -25,7 +25,6 @@ Library: C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\BurstOutpu
 --assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.InputSystem;
 --assembly-defines=Unity.InputSystem.ForUI;
---assembly-defines=endel.nativewebsocket;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Unity.Collections.LowLevel.ILSupport;
@@ -123,7 +122,6 @@ Library: C:\Users\tealf\Documents\photonPUNTest\Trench Game (V2)\Temp\BurstOutpu
 --assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.InputSystem;
 --assembly-defines=Unity.InputSystem.ForUI;
---assembly-defines=endel.nativewebsocket;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Unity.Collections.LowLevel.ILSupport;
